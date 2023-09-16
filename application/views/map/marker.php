@@ -10,7 +10,7 @@
     <!-- Content Row -->
     <div class="row">
 
-        <div class="col-lg-6">
+        <div class="col-lg-12 col-md-12">
 
             <!-- Circle Buttons -->
             <div class="card shadow mb-4">

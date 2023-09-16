@@ -34,21 +34,21 @@
                 <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
                     <div class="bg-black py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Utilities:</h6>
-                        <a class="collapse-item" href="<?= site_url('map/map') ?>">Map View</a>
-                        <a class="collapse-item" href="<?= site_url('map/marker') ?>">Map Marker</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Polyline</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Routing</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Polygon</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Circle</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Get Coordinate</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Marker DB</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Circle DB</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Cluster DB</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Heat</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Serach Control</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Geo JSON</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Base</a>
-                        <a class="collapse-item" href="<?= site_url('map/') ?>">Map Drawer Leaflet</a>
+                        <a class="collapse-item" href="<?= site_url('map') ?>">Map View</a>
+                        <a class="collapse-item" href="<?= site_url('marker') ?>">Map Marker</a>
+                        <a class="collapse-item" href="<?= site_url('polyline') ?>">Map Polyline</a>
+                        <a class="collapse-item" href="<?= site_url('routing') ?>">Map Routing</a>
+                        <a class="collapse-item" href="<?= site_url('polygon') ?>">Map Polygon</a>
+                        <a class="collapse-item" href="<?= site_url('circle') ?>">Map Circle</a>
+                        <a class="collapse-item" href="<?= site_url('coordinate') ?>">Map Get Coordinate</a>
+                        <a class="collapse-item" href="<?= site_url('markdb') ?>">Map Marker DB</a>
+                        <a class="collapse-item" href="<?= site_url('circledb') ?>">Map Circle DB</a>
+                        <a class="collapse-item" href="<?= site_url('clusterdb') ?>">Map Cluster DB</a>
+                        <a class="collapse-item" href="<?= site_url('heat') ?>">Map Heat</a>
+                        <a class="collapse-item" href="<?= site_url('search-control') ?>">Map Serach Control</a>
+                        <a class="collapse-item" href="<?= site_url('geojson') ?>">Map Geo JSON</a>
+                        <a class="collapse-item" href="<?= site_url('base') ?>">Map Base</a>
+                        <a class="collapse-item" href="<?= site_url('drawer-leaflet') ?>">Map Drawer Leaflet</a>
                     </div>
                 </div>
             </li>

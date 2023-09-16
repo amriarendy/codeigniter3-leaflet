@@ -56,6 +56,7 @@ $route['translate_uri_dashes'] = FALSE;
 $route['login'] = 'Auth';
 $route['dashboard'] = 'Dashboard';
 $route['blank'] = 'Dashboard/blank';
+
 $route['map'] = 'Map/index';
 $route['marker'] = 'Map/marker';
 $route['polyline'] = 'Map/polyline';

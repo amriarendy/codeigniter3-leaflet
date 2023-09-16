@@ -16,8 +16,26 @@
     <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,400;0,500;0,600;0,700;0,800;0,1000;1,400&display=swap" rel="stylesheet">
     <!-- Custom styles for this template-->
     <link href="<?= base_url(); ?>assets/css/sb-admin-2.min.css" rel="stylesheet">
+    <!-- Leaflet -->
     <link href="<?= base_url(); ?>assets/vendor/leaflet/leaflet.css" rel="stylesheet" />
     <script src="<?= base_url(); ?>assets/vendor/leaflet/leaflet.js"></script>
+    <!-- liedman -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+    <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+    <!-- Bootstrap core JavaScript-->
+    <script src="<?= base_url(); ?>assets/vendor/jquery/jquery.min.js"></script>
+    <script src="<?= base_url(); ?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="<?= base_url(); ?>assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Cluster-->
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/vendor/cluster/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/vendor/cluster/dist/MarkerCluster.Default.css">
+    <script src="<?= base_url(); ?>assets/vendor/cluster/dist/leaflet.markercluster-src.js"></script>
+    <!-- Heat -->
+    <script src="<?= base_url(); ?>assets/vendor/Leaflet.heat/dist/leaflet-heat.js"></script>
+    <!-- leaflet-search -->
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/vendor/leaflet-search/src/leaflet-search.css">
+    <script src="<?= base_url(); ?>assets/vendor/leaflet-search/src/leaflet-search.js"></script>
 </head>
 
 <body id="page-top">
