@@ -71,4 +71,4 @@ $route['heat'] = 'Map/heat';
 $route['search-control'] = 'Map/search_control';
 $route['geojson'] = 'Map/geojson';
 $route['base'] = 'Map/base';
-$route['drawer-leaflet'] = 'Map/drawer-leaflet';
+$route['drawer-leaflet'] = 'Map/drawer';
